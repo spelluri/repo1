@@ -1,10 +1,1 @@
- Volume in drive D has no label.
- Volume Serial Number is 3462-3633
-
- Directory of D:\Git\MyGitSample
-
-01/03/2019  15:16    <DIR>          .
-01/03/2019  15:16    <DIR>          ..
-01/03/2019  15:19                34 abc.txt
-               1 File(s)             34 bytes
-               2 Dir(s)   5,061,410,816 bytes free
+Hello Chnage 1 
